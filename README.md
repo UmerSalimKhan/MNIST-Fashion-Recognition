@@ -118,6 +118,11 @@ This project uses the following libraries:
 *   **Streamlit:** For creating the web application. Install with: `pip install streamlit`
 *   **Graphviz:** Used by Keras' `plot_model` utility to visualize the model architecture. Install it separately based on your OS (e.g., `apt-get install graphviz` on Debian/Ubuntu, `brew install graphviz` on macOS).  `pip install graphviz` installs the Python bindings.  You need both the Graphviz engine and the Python package.
 
+### Or simply use the below code:
+```bash
+pip install -r requirements.txt
+```
+
 ## Cloning the Repository
 
 To clone this repository, use the following command:
